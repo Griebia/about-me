@@ -2,8 +2,9 @@
 
 * Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin
 * Growing Object-Oriented Software Guided by Tests
-* Refactoring Book by Kent Beck and Martin Fowler
-
+* Refactoring Book by Kent Beck and Martin Fowlerv
+* Getting Things Done Book by David Allen
+  
 # Coureses
 
 * Functional Programming Principles in Scala École Polytechnique Fédérale de
