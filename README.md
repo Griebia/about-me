@@ -6,6 +6,7 @@
 * Refactoring Book by Kent Beck and Martin Fowlerv
 * Getting Things Done Book by David Allen
 * Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems by Martin Kleppmann
+* The Pragmatic Programmer by Andy Hunt and Dave Thomas
   
 # Coureses
 
