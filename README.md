@@ -1,12 +1,16 @@
 # My Read Books
 
 * Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin
+* Domain-Driven Design: Tackling Complexity in the Heart of Software Book by Eric Evans
 * Growing Object-Oriented Software Guided by Tests
 * Patterns of Enterprise Application Architecture by Martin Fowler
 * Refactoring Book by Kent Beck and Martin Fowlerv
 * Getting Things Done Book by David Allen
 * Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems by Martin Kleppmann
 * The Pragmatic Programmer by Andy Hunt and Dave Thomas
+* System Design Interview by  Alex Xu
+* Implementing Domain-driven Design by Vaughn Vernon
+
   
 # Coureses
 
