@@ -10,6 +10,7 @@
 * The Pragmatic Programmer by Andy Hunt and Dave Thomas
 * System Design Interview by  Alex Xu
 * Implementing Domain-driven Design by Vaughn Vernon
+* AI-Assisted Software En­gineering by Tadas Subonis
 
   
 # Coureses
