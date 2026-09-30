@@ -11,7 +11,8 @@
 * System Design Interview by  Alex Xu
 * Implementing Domain-driven Design by Vaughn Vernon
 * AI-Assisted Software En­gineering by Tadas Subonis
-* Event Sourcing by Greg Young 
+* Event Sourcing by Greg Young
+* The Mythical Man-Month Book by Fred Brooks
 
   
 # Coureses
